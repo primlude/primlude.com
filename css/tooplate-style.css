@@ -5,9 +5,10 @@ Template 2106 Soft Landing
 http://www.tooplate.com/view/2106-soft-landing
 	
 */
- 
-  @import url('https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400');
 
+  @import url('https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400');
+ 
+   
   body {
     font-family: 'Open Sans', sans-serif;
     overflow-x: hidden;
@@ -49,6 +50,7 @@ http://www.tooplate.com/view/2106-soft-landing
 
   html{
     -webkit-font-smoothing: antialiased;
+    scroll-behavior: smooth;
   }
 
   a {
@@ -131,8 +133,6 @@ http://www.tooplate.com/view/2106-soft-landing
     background: #f15157;
     border: 0;
     color: #ffffff;
-    position: absolute;
-    right: 6em;
     width: 25%;
   }
   .online-form button a{
@@ -667,6 +667,7 @@ http://www.tooplate.com/view/2106-soft-landing
 
   .copyright-text p {
     margin: 5px;
+    text-align: center;
   }
 
 
