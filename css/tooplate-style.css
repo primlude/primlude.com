@@ -361,9 +361,22 @@ http://www.tooplate.com/view/2106-soft-landing
   }
   
 
+/*---------------------------------------
+      AI             
+  -----------------------------------------*/
+
+  #ai .col-md-4 {
+    margin: 0;
+    padding: 0;
+  }
+
+  #ai .section-title {
+    color: #2ba5c7;
+    text-align: center;
+  }
 
   /*---------------------------------------
-      FEATURE              
+      Architecture              
   -----------------------------------------*/
 
   #architecture {
@@ -423,12 +436,17 @@ http://www.tooplate.com/view/2106-soft-landing
 
 
   /*---------------------------------------
-      CLOID             
+      CLOUD             
   -----------------------------------------*/
 
   #cloud .col-md-4 {
     margin: 0;
     padding: 0;
+  }
+
+  #cloud .section-title {
+    color: #2ba5c7;
+    text-align: center;
   }
 
   .team-thumb {
@@ -558,11 +576,6 @@ http://www.tooplate.com/view/2106-soft-landing
       development             
   -----------------------------------------*/
 
-  #cloud .section-title {
-    color: #2ba5c7;
-  }
-
-  #cloud .section-title,
   #development .section-title {
     text-align: center;
   }
