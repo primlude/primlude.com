@@ -250,7 +250,7 @@ http://www.tooplate.com/view/2106-soft-landing
   }
 
   .custom-navbar .navbar-nav {
-    margin-left: 4em;
+    margin-left: 0em;
   }
 
   .custom-navbar .nav li a {
@@ -428,7 +428,7 @@ http://www.tooplate.com/view/2106-soft-landing
     margin: 0 0 5px 0;
   }
 
-  .architecture-images {
+  .architecture-image {
     position: absolute;
     bottom: -27em;
   }
@@ -503,7 +503,69 @@ http://www.tooplate.com/view/2106-soft-landing
   }
 
 
+ /*---------------------------------------
+      Private Equity              
+  -----------------------------------------*/
 
+  #private-equity {
+    background: #ffffff;
+  }
+
+  #private-equity .nav-tabs {
+    border-bottom: 0;
+    padding: 10px;
+  }
+
+  #private-equity .nav>li>a {
+    padding: 8px 0;
+  }
+
+  #private-equity .nav-tabs>li>a {
+    color: #999999;
+    font-size: 18px;
+    border: 0;
+    border-bottom: 3px solid transparent;
+    border-radius: 0;
+    margin-right: 35px;
+  }
+
+  #private-equity .nav-tabs>li.active>a, 
+  #private-equity .nav-tabs>li.active>a:focus, 
+  #private-equity .nav-tabs>li.active>a:hover {
+    background: transparent;
+    color: #202020;
+    border-bottom: 3px solid #2ba5c7;
+  }
+
+  #private-equity .nav>li>a:focus, 
+  #private-equity .nav>li>a:hover {
+    background: transparent;
+    border-bottom: 3px solid #2ba5c7;
+    color: #202020;
+  }
+
+  #private-equity h2 {
+    color: black;
+    
+  }
+
+  #private-equity .heading {
+    font-weight: 900;
+    color: #f15157;
+    
+  }
+  .tab-pane-item {
+    margin: 20px 0;
+  }
+
+  .tab-pane-item h2 {
+    margin: 0 0 5px 0;
+  }
+
+  .private-equity-image {
+    position: absolute;
+    bottom: -27em;
+  }
   /*---------------------------------------
       benefits           
   -----------------------------------------*/
